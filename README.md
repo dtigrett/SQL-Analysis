@@ -1,4 +1,4 @@
-# sql-challenge
+# sql-analysis
 
 In this assignment, a database and 6 tables were created to  hold data from CSV's that were imported into a SQL database.  Once the database was created the following queries were made:
 
